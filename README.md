@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Aditya Rana
 
-### Pre-Final Year IT Student @ VIT Pune | CGPA: 9.22/10
+### Pre-Final Year B.tech CSE (AI) @ VIT Pune | CGPA: 9.22/10
 
 **Full Stack Developer · AI/ML Enthusiast · Backend & Systems Engineering**
 
