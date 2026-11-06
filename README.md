@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a pre-final-year Information Technology student at **Vishwakarma Institute of Technology, Pune**.
+I'm a pre-final-year CSE(AI) student at **Vishwakarma Institute of Technology, Pune**.
 
 I enjoy building **end-to-end software systems** — from designing backend and database architecture to developing user-facing applications and deploying them in production.
 
